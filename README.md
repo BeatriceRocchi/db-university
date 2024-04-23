@@ -1,5 +1,7 @@
 # DB University
 
+### 22/04/2024
+
 Modellare la struttura di un database per memorizzare tutti i dati riguardanti una università:
 
 - sono presenti diversi Dipartimenti (es.: Lettere e Filosofia, Matematica, Ingegneria ecc.);
@@ -10,3 +12,7 @@ Modellare la struttura di un database per memorizzare tutti i dati riguardanti u
 - ogni Studente è iscritto ad un solo Corso di Laurea;
 - ogni Studente può iscriversi a più appelli di Esame;
 - per ogni appello d’Esame a cui lo Studente ha partecipato, è necessario memorizzare il voto ottenuto, anche se non sufficiente.
+
+### 23/04/2024
+
+Dopo aver creato un nuovo database in phpMyAdmin e aver importato lo schema fornito, eseguire le query nel file fornito. Dopo aver testato le query con phpMyAdmin, riportarle in un file txt e caricarlo nella repo.
