@@ -15,4 +15,8 @@ Modellare la struttura di un database per memorizzare tutti i dati riguardanti u
 
 ### 23/04/2024
 
-Dopo aver creato un nuovo database in phpMyAdmin e aver importato lo schema fornito, eseguire le query nel file fornito. Dopo aver testato le query con phpMyAdmin, riportarle in un file txt e caricarlo nella repo.
+Dopo aver creato un nuovo database in phpMyAdmin e aver importato lo schema fornito, eseguire le query nel file fornito (select e group by). Dopo aver testato le query con phpMyAdmin, riportarle in un file txt e caricarlo nella repo.
+
+### 24/04/2024
+
+Eseguire le query di tipo join e, dopo aver testato le query con phpMyAdmin, riportarle in un file txt e caricarlo nella repo.
